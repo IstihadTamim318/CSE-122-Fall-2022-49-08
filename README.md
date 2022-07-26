@@ -5,7 +5,7 @@ Name: MD Istihad Tamim
 
 Student ID: 21225103318
 
-Email: iamistihad@gmail.com
+Email: mdistihadtamim@gmail.com
 
 Intake: 49
 
